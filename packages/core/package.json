@@ -1,6 +1,6 @@
 {
   "name": "@imooc-cli-dev-fan/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "imooc-cli-dev-fan core",
   "author": "Jasmine <fancheny@cn.ibm.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@imooc-cli-dev-fan/utils": "^1.0.1"
+    "@imooc-cli-dev-fan/utils": "^1.0.2"
   },
   "gitHead": "a1f68a6a901d811cd315ae023f341a296ca9a6a4"
 }
