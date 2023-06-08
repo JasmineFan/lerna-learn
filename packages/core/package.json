@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "@imooc-cli-dev-fan/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "a1f68a6a901d811cd315ae023f341a296ca9a6a4"
 }
