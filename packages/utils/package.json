@@ -1,6 +1,6 @@
 {
   "name": "@imooc-cli-dev-fan/utils",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "imooc-cli-dev-fan utils",
   "author": "Jasmine <fancheny@cn.ibm.com>",
   "homepage": "",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "node ./__tests__/utils.test.js"
   },
-  "gitHead": "e65766bbf8260865aaa6619f03296dadfa617206"
+  "gitHead": "303fec6684faa9793a8d390dc6fdc81b0e036813"
 }
