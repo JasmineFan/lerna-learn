@@ -20,7 +20,9 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@imooc-cli-dev-fan/utils": "file:../utils"
+    "@imooc-cli-dev-fan/utils": "file:../../utils/utils",
+    "import-local": "^3.1.0",
+    "npmlog": "^7.0.1"
   },
   "gitHead": "d181625592f2c105e45b901b6ffc90241b84ebbf",
   "publishConfig": {
