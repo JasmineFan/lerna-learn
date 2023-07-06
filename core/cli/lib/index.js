@@ -3,12 +3,11 @@
 module.exports = core;
 
 const pkg = require('../package.json')
-const file = require('../file.txt')
-file()
+const log = require('@imooc-cli-dev-fan/log')
 
 function core() {
   checkPkgVersion()
 }
 function checkPkgVersion(){
-  console.log(pkg.version)
+  log.notice('cli',pkg.version)
 }
